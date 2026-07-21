@@ -1,0 +1,12 @@
+definition_version: 2
+entities:
+  f1_historical_intelligence_agent:
+    type: streamlit
+    identifier:
+      name: F1_HISTORICAL_INTELLIGENCE_AGENT
+    stage: F1_APP_STAGE
+    query_warehouse: YOUR_WAREHOUSE
+    main_file: streamlit_app.py
+    artifacts:
+      - streamlit_app.py
+      - environment.yml
