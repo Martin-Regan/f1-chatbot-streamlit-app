@@ -5,9 +5,8 @@ Snowflake Cortex Agents. The app combines historical race data with circuit and
 weather context to answer natural-language questions about drivers, races, and
 performance across eras.
 
-> Portfolio project: the public repository contains the application layer and
-> safe deployment templates. Snowflake objects, credentials, proprietary data,
-> and external API secrets are intentionally excluded.
+> This repository contains the Streamlit app and deployment templates.
+> The Snowflake agent, data, credentials, and API keys remain private.
 
 ## What it does
 
@@ -23,7 +22,7 @@ Example questions:
 - Did it rain during the 1998 Belgian Grand Prix?
 - Compare the careers of Michael Schumacher and Lewis Hamilton fairly.
 - Was it a wet track at the 2023 Bahrain Grand Prix?
-- Who won the 2023 Belgian Grand Prix, and what was the weather like?
+- Who won the 2021 German Grand Prix, and what was the weather like?
 
 ## Architecture
 
