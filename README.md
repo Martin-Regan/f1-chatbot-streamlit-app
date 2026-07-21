@@ -76,7 +76,7 @@ returns a grounded response for the chat interface.
 
 3. Ensure the Streamlit owner role can use Cortex Agents and access the agent
    object and its underlying data sources.
-4. Keep credentials and external API keys in Snowflake secrets—not in source
+4. Keep credentials and external API keys in Snowflake secrets, not in source
    control.
 
 ## Deploy
