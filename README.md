@@ -24,6 +24,12 @@ Example questions:
 - Was it a wet track at the 2023 Bahrain Grand Prix?
 - Who won the 2021 German Grand Prix, and what was the weather like?
 
+## Development
+
+This project was created as part of a workshop task to turn an existing Snowflake Cortex Agent into a Streamlit application. The focus was on deploying the agent through a usable chat interface rather than building the application code from scratch.
+
+I designed and built the underlying Cortex Agent, including its data, semantic model, instructions and custom tools. OpenAI Codex was used extensively to develop the Streamlit application and deployment code, which I tested and iterated on to get the application working.
+
 ## Architecture
 
 ```mermaid
